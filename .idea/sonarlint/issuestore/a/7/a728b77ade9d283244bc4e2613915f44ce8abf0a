@@ -1,0 +1,8 @@
+
+8
+java:S1214""Move constants to a class or enum.(Â…∑ª
+D
+java:S3740"/Provide the parametrized type for this generic.(√ŸÚP
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(≈µÕ∞
+o	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(√™±®

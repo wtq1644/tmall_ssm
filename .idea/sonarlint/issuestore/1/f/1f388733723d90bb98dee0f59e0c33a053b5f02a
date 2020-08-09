@@ -1,0 +1,27 @@
+
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(» Ü«ÿÿÿÿÿ
+d
+java:S4042V"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¢áôÚ
+U	java:S899X";Do something with the "boolean" value returned by "delete".(Šıı¥ùÿÿÿÿ
+>
+java:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™–İşÿÿÿÿ
+d
+java:S4042^"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¢áôÚ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…úî
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…úî
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šî¦
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™–İşÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë
+P	java:S899^";Do something with the "boolean" value returned by "delete".(¢áôÚ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(» Ü«ÿÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'com.how2java.tmall.util.Page'.(ıûüÿÿÿÿ
+U	java:S899W";Do something with the "boolean" value returned by "delete".(¬‹İüÿÿÿÿ
+P	java:S899V";Do something with the "boolean" value returned by "delete".(¢áôÚ
+i
+java:S4042X"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Šıı¥ùÿÿÿÿ
+i
+java:S4042W"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¬‹İüÿÿÿÿ
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šî¦
